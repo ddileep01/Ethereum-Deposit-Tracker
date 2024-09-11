@@ -117,6 +117,9 @@ If you're deploying this project using GitHub Actions, you should store your sen
 
 ## Results
 
+![WhatsApp Image 2024-09-10 at 23 47 39](https://github.com/user-attachments/assets/e71c855f-11ae-401c-873a-0a464eaa0eeb)
+
+
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
