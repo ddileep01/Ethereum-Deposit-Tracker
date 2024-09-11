@@ -115,15 +115,11 @@ If you're deploying this project using GitHub Actions, you should store your sen
       BEACON_DEPOSIT_CONTRACT_ADDRESS: ${{ secrets.BEACON_DEPOSIT_CONTRACT_ADDRESS }}
     ```
 
+## Results
+
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
-
-@mannan-goyal
-@rohilsaraf97
-@bitoffabyte
-@guptaharsh13
-@nimishjn
 
 ## License
 
